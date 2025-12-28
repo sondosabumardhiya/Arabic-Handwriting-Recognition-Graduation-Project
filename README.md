@@ -11,9 +11,9 @@ The proposed approach supports applications such as document digitization, histo
 - **Degree:** B.Sc. in Data Science and Artificial Intelligence  
 - **Date:** January 2025  
 
-## Authors
-- Sada Mohammad 
-- **Sondos  Abu Mardyah 
+## Authors 
+- Sondos  Abu Mardyah
+- Sada Mohammad
 - Logain  jamal  
 
 ## Notes
